@@ -1,0 +1,8 @@
+{
+    "__comment1": "rename this file to config.json before running",
+    "prefix": "n@", 
+    "token": "your_awesome_bot_token",
+    "dogapikey": "dog_api_key",
+    "catapikey": "cat_api_key",
+    "mongologinstr": "mongod_login_string"
+}

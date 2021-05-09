@@ -1,0 +1,20 @@
+{
+  "name": "noex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bufferutil": "^4.0.3",
+    "discord.js": "^12.5.3",
+    "querystring": "^0.2.1",
+    "r2": "^2.0.1",
+    "utf-8-validate": "^5.0.4"
+  }
+}
